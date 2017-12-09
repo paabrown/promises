@@ -1,0 +1,23 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Experiment with recreating promises",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paabrown/promises.git"
+  },
+  "author": "Paul Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paabrown/promises/issues"
+  },
+  "homepage": "https://github.com/Paabrown/promises#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest-cli": "^21.2.1"
+  }
+}
